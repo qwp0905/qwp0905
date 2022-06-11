@@ -1,7 +1,5 @@
 # 백엔드 개발자 - 정권진
 
-안녕하세요. 백엔드 주니어 개발자 정권진입니다. Node.js 기반으로 Express, NestJS, MySQL 등을 이용해 개발하고 있습니다.
-
 ### Tech Stack
 
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>  
