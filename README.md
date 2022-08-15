@@ -1,4 +1,4 @@
-# 백엔드 개발자 - 정권진
+# Backend Developer KwonJin Jung
 
 ### Tech Stack
 
