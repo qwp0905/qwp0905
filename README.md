@@ -16,7 +16,8 @@
   
 `Devops`  
   
-<img src="https://img.shields.io/badge/AWS-important?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-blueviolet?style=flat-square&logo=Terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-blue?style=flat-square&logo=Kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-important?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-blueviolet?style=flat-square&logo=Terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-blue?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
+  
 
 ### Contact Info
 <img src="https://img.shields.io/badge/qwp0905@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
