@@ -2,11 +2,17 @@
 
 ### Tech Stack
   
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/>  
+`Languages`  
+  
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/> <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Golang-00ADD8?style=flat-square&logo=Go&logoColor=white"/>    
+  
+`Backend`  
   
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>  
   
-<img src="https://img.shields.io/badge/AWS-important?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-blueviolet?style=flat-square&logo=Terraform&logoColor=white"/>
+`Devops`  
+  
+<img src="https://img.shields.io/badge/AWS-important?style=flat-square&logo=Amazon AWS&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-blue?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Terraform-blueviolet?style=flat-square&logo=Terraform&logoColor=white"/> <img src="https://img.shields.io/badge/kubernetes-blue?style=flat-square&logo=Kubernetes&logoColor=white"/>
 
 ### Contact Info
 <img src="https://img.shields.io/badge/qwp0905@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
