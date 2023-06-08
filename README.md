@@ -1,5 +1,3 @@
-# 백엔드 개발자 - 정권진
-
 ### Tech Stack
   
 `Languages`  
